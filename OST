@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    string regID;
+
+    cout << "Enter Registration ID: ";
+    cin >> regID;
+
+    cout << "You entered: " << regID << endl;
+
+    return 0;
+}
